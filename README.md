@@ -4,7 +4,7 @@ This repository features an interactive Excel dashboard designed specifically fo
 
 The key metrics emphasized within the dashboard include the retention rate, power performance factor, unit sales, pricing, and resale value. By meticulously highlighting these areas, the company gains valuable insights into the success and profitability of its German vehicle offerings.
 
-Through this project, the aim is to provide a comprehensive and user-friendly tool that enables the efficient tracking and evaluation of car sales data. By leveraging the power of data visualization, the dashboard empowers decision-makers to make informed choices, optimize inventory management, and ultimately drive business growth within the automotive sector.
+The aim is to provide a comprehensive and user-friendly tool that enables the efficient tracking and evaluation of sales data. By leveraging the power of data visualization, the dashboard empowers decision-makers to make informed choices, optimize inventory management, and ultimately drive business growth within the automotive industry.
 
 ## Sample Dashboard View
 ![image](https://github.com/Sonya-7/Local_Dashboard/assets/92489108/e3fb271a-9ec7-42b3-b920-d63e8fa7b653)
