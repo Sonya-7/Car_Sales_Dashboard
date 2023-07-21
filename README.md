@@ -1,8 +1,8 @@
 # Car Sales Dashboard
 
-This repository features an interactive Excel dashboard designed specifically for monitoring car sales within an esteemed automotive company. With a diverse inventory encompassing multiple manufacturers and models, the focus of this dashboard centers around the performance analysis of their current stock of German vehicles.
+This repository features an interactive Excel dashboard designed specifically for monitoring car sales within an esteemed automotive company with a diverse inventory encompassing multiple manufacturers and models. The focus of this dashboard centers around the performance analysis of their current stock of German vehicles.
 
-The key metrics emphasized within the dashboard include the retention rate, power performance factor, unit sales, pricing, and resale value. By meticulously highlighting these areas, the company gains valuable insights into the success and profitability of its German vehicle offerings.
+Highlighting key metrics such as retention rate, power performance factor, unit sales, pricing, and resale value, the dashboard provides valuable insights into the success and profitability of the company's German vehicle offerings.
 
 The aim is to provide a comprehensive and user-friendly tool that enables the efficient tracking and evaluation of sales data. By leveraging the power of data visualization, the dashboard empowers decision-makers to make informed choices, optimize inventory management, and ultimately drive business growth within the automotive industry.
 
